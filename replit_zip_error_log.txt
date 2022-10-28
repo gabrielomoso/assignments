@@ -1,0 +1,1 @@
+{"error":"lstat /home/runner/Zuri-week-4-frontend/.config/configstore/update-notifier-npm.json.735149629: no such file or directory","level":"error","msg":"unable to stat .config/configstore/update-notifier-npm.json.735149629","time":"2022-10-28T15:02:29Z"}
